@@ -1,0 +1,34 @@
+.team {
+  background-color: #f4f4fd;
+}
+.team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+}
+.team-list {
+  display: flex;
+  gap: 24px;
+}
+.team-item {
+  width: calc((100% - 72px) / 4);
+  background-color: #fff;
+  border-radius: 0 0 4px 4px;
+}
+.team-img {
+  width: 100%;
+}
+.team-name {
+  margin-top: 32px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+}
+.team-role {
+  margin-top: 8px;
+  padding-bottom: 32px;
+  text-align: center;
+  color: #434455;
+}
