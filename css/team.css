@@ -20,15 +20,17 @@
   width: 100%;
 }
 .team-name {
-  margin-top: 32px;
+  margin: 0;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   text-align: center;
 }
 .team-role {
-  margin-top: 8px;
-  padding-bottom: 32px;
+  margin: 8px 0 0;
   text-align: center;
   color: #434455;
+}
+.team-content {
+  padding: 32px 16px;
 }
